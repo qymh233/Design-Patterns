@@ -8,3 +8,4 @@
 ## Observer:观察者模式  
 代码建议参考ObserveTest
 ## State:状态模式
+## Strategy:策略模式
