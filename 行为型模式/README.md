@@ -7,3 +7,4 @@
 ## Memento:备忘录模式
 ## Observer:观察者模式  
 代码建议参考ObserveTest
+## State:状态模式
