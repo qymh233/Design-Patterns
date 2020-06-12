@@ -5,4 +5,5 @@
 ## Iterator:迭代器模式
 ## Mediator:中介者模式
 ## Memento:备忘录模式
-## Observer:观察者模式
+## Observer:观察者模式  
+代码建议参考ObserveTest
