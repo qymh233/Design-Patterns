@@ -3,3 +3,4 @@
 ## Command:命令模式
 ## Interpreter:解释器模式
 ## Iterator:迭代器模式
+## Mediator:中介者模式
