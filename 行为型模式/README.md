@@ -9,3 +9,4 @@
 代码建议参考ObserveTest
 ## State:状态模式
 ## Strategy:策略模式
+## Template Method:模板方法
