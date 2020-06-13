@@ -4,3 +4,4 @@
 ## Composite:组合模式
 ## Decorator:装饰模式
 ## Facade：外观模式
+## Flyweight:享元模式
